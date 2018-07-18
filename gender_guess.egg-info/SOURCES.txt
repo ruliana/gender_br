@@ -1,0 +1,9 @@
+README.md
+setup.py
+gender_guess/__init__.py
+gender_guess/gender.py
+gender_guess.egg-info/PKG-INFO
+gender_guess.egg-info/SOURCES.txt
+gender_guess.egg-info/dependency_links.txt
+gender_guess.egg-info/requires.txt
+gender_guess.egg-info/top_level.txt
